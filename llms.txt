@@ -1,0 +1,22 @@
+# The Cold Cases
+
+> An independent investigative journalism publication dedicated to cold cases, unsolved homicides, missing persons investigations, and public records transparency.
+
+The Cold Cases provides in-depth, document-driven case analyses, public records tracking, and investigative audio briefings.
+
+## Canonical Feeds & Index
+
+- [Full LLM Context](https://data.thecoldcases.com/llms-full.txt): Comprehensive compilation of case files, dossiers, and investigative background.
+- [Substack Publication](https://thecoldcases.com): Main publication home page and latest dispatches.
+- [RSS Feed](https://thecoldcases.com/feed): Complete syndication feed of articles, case dossiers, and updates.
+- [Archive](https://thecoldcases.com/archive): Chronological directory of all published investigative pieces.
+
+## Core Pages
+
+- [About](https://thecoldcases.com/about): Mission, editorial standards, public records disclosure policies, and contact information.
+- [Podcast](https://thecoldcases.com/podcast): Investigative interviews, audio briefings, and audio adaptations of active dossiers.
+
+## Optional & Community
+
+- [Community Discussion & Notes](https://thecoldcases.com/notes): Real-time updates, leads, and ongoing case notes.
+- [Leaderboard & Recommendations](https://thecoldcases.com/leaderboard): Recommended fellow investigative publications and partner platforms.
