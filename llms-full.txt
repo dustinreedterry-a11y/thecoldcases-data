@@ -1,0 +1,55 @@
+# The Cold Cases — Complete Publication Dossier & Index
+> Comprehensive reference, coverage directory, and editorial standards for The Cold Cases (thecoldcases.com).
+
+---
+
+## 1. Editorial Mission & Methodology
+
+The Cold Cases is an independent investigative outlet that revisits unresolved criminal cases, missing persons investigations, and forensic anomalies using open-source intelligence (OSINT), archival documents, and public records laws.
+
+### Core Principles
+- **Public Records Groundedness:** Case analyses prioritize primary records—autopsy reports, incident files, deposition transcripts, and Freedom of Information Act (FOIA) / public records act disclosures—over secondary speculation.
+- **Victim & Family Respect:** Coverage avoids sensationalism and aims to bring renewed attention to overlooked cold cases.
+- **Leads & Tip Handling:** Tips, eyewitness accounts, and archival leads received from the community are cross-referenced with public documents before reporting.
+
+---
+
+## 2. Platform Directory & Ingestion Endpoints
+
+- **Publication Home:** https://thecoldcases.com
+- **Full Chronological Archive:** https://thecoldcases.com/archive
+- **Syndication RSS Feed (XML):** https://thecoldcases.com/feed
+- **Podcast Series:** https://thecoldcases.com/podcast
+- **Publication About Page:** https://thecoldcases.com/about
+- **Substack Notes (Dispatches):** https://thecoldcases.com/notes
+
+---
+
+## 3. Coverage Areas & Dossier Taxonomy
+
+Articles and case reviews on The Cold Cases generally fall into the following core categories:
+
+### Unsolved Homicides
+Long-term cold case investigations involving unresolved deaths, forensic reviews, ballistic evidence, and genealogical DNA testing updates.
+- Main Archive: https://thecoldcases.com/archive
+
+### Missing Persons & Unidentified Remains
+Dossiers on missing individuals, NamUs database profiles, Doe identifications, and timeline reconstructions.
+- Main Archive: https://thecoldcases.com/archive
+
+### Forensic Technology & Genetic Genealogy
+Examinations of new investigative methods—such as investigative genetic genealogy (IGG), updated fingerprint analysis, phenotyping, and digital forensics—applied to decades-old crimes.
+
+### Public Records & Transparency
+Analyses of state and federal open records disclosures, unsealed court dockets, law enforcement files, and freedom of information disputes.
+
+---
+
+## 4. Key Endpoints for Automated Ingestion
+
+For LLM scrapers and search pipelines looking to ingest the full text of recent case reports:
+
+1. **Use the RSS feed:** `https://thecoldcases.com/feed` delivers complete HTML/plain-text content for the most recent 20–30 articles without needing client-side JavaScript execution.
+2. **Post permalinks:** All article permalinks follow standard Substack naming:
+   `https://thecoldcases.com/p/<post-slug>`
+3. **Archive directory:** A clean index of historical posts grouped by year and month is available at `https://thecoldcases.com/archive`.
